@@ -1,4 +1,4 @@
-# Torch App
+# Calculator App
 
 This is a standard calculator app developed using Kotlin and Jetpack Compose for the frontend. Users can issue voice commands to perform calculations, and the app features a mesh gradient background for an enhanced visual appeal. It boasts a modern user interface with rounded buttons. There's no need to type digits or operands—simply speak, and the speech recognition will interpret your commands.
 
